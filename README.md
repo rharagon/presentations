@@ -3,7 +3,7 @@
 Slides and presentation materials from my talks and demos on programming education,
 code quality, and fuzzy classification (Scratch / Python).
 
-**Author:** Ricardo Hidalgo Aragón ([@rharagon](https://github.com/rharagon))
+**Author:** Ricardo Hidalgo-Aragón ([@rharagon](https://github.com/rharagon) [web](https://rharagon.github.io/))
 
 | Directory | Talk | Venue / date |
 | --- | --- | --- |
@@ -15,7 +15,7 @@ code quality, and fuzzy classification (Scratch / Python).
 
 ## License
 
-Copyright (c) 2026 Ricardo Hidalgo Aragón.
+Copyright (c) 2026 Ricardo Hidalgo-Aragón.
 
 All material in this repository is licensed under the
 **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International**
@@ -35,7 +35,7 @@ You may **not**:
 
 **All rights not expressly granted are reserved.** For any use beyond the scope of
 the license — reuse in other talks, courses, publications, or derivative decks —
-prior written permission is required: ricarha@gmail.com.
+prior written permission is required.
 
 ### Third-party material
 
