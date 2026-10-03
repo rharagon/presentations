@@ -3,7 +3,7 @@
 Slides and presentation materials from my talks and demos on programming education,
 code quality, and fuzzy classification (Scratch / Python).
 
-**Author:** Ricardo Hidalgo-Aragón ([@rharagon](https://github.com/rharagon) [web](https://rharagon.github.io/))
+**Author:** Ricardo Hidalgo-Aragón ([@rharagon](https://github.com/rharagon) || [web](https://rharagon.github.io/))
 
 | Directory | Talk | Venue / date |
 | --- | --- | --- |
