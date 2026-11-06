@@ -12,6 +12,12 @@ code quality, and fuzzy classification (Scratch / Python).
 | [`MadSESE/`](MadSESE) | How Computational Thinking Skills Influence Design Quality in Scratch: An Empirical Analysis of Code Smells | MadSESE — October 2025 |
 | [`fuzzyMAD/`](fuzzyMAD) | El camino hacia una escala comprensible del código: un recorrido por mi investigación doctoral | +FuzzyMAD 2025 — December 2025 |
 | [`seLIA/`](seLIA) | seLIA2: evaluación formativa de código Python con IA local explicable | Demo — 2026 |
+| [`SIESTA/`](SIESTA) | From Measuring Novice Code to Asking Who Wrote It — SIESTA 2026 | SIESTA 2026 — Software Engineering Summer School (student talk, 5 min) |
+| [`UCA/`](UCA) | Líneas de investigación, camino doctoral | Seminario de investigación — Universidad de Cádiz (November 2026) |
+
+Talk material lives one directory per talk. The HTML decks are self-contained
+presentations: open the file in a browser and use the *Present* button — no
+installation needed. Some directories also include a PDF export.
 
 ## License
 
